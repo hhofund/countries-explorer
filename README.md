@@ -1,15 +1,16 @@
 # Countries Explorer
 
-A simple Single Page Application built with Vue 3 and Vite.
+A simple Appn built with Vue 3 and Vite.
 
 ## Features
-- Fetches country data from a public API
+- Fetches country data
 - Search countries by name
 - Displays flags, population, region, and capital
+- filter Population and region
 - Uses Vue Router for navigation
-- End-to-end tested with Cypress
+- tested with Cypress
 
-## Tech stack
+## Skills used
 - Vue 3
 - Vite
 - Vue Router
