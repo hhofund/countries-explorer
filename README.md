@@ -6,7 +6,7 @@ A simple Appn built with Vue 3 and Vite.
 - Fetches country data
 - Search countries by name
 - Displays flags, population, region, and capital
-- filter Population and region
+- filter Population and region or sort by name
 - Uses Vue Router for navigation
 - tested with Cypress
 
